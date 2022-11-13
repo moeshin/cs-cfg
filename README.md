@@ -3,5 +3,5 @@
 Mouse DPI: 2400
 
 ```text
--worldwide --perfectworld +exec moeshin/auto.cfg --tick 128
++exec moeshin/auto -worldwide --perfectworld --tickrate 128
 ```
