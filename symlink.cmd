@@ -1,5 +1,5 @@
 @echo off
-set dir_cfg=C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\cfg
+set dir_cfg=C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\cfg
 
 echo Cfg dir is "%dir_cfg%"?
 set /p dir_cfg_input=[ Y / other dir ]: 
