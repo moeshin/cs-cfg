@@ -2,8 +2,8 @@
 
 Name | Value
 ----|----
-DPI | 1200
-EDIP | 2160 ( 1200 * 1.8 )
+DPI | 400
+EDIP | 1200
 Mouse | Logitech G502 Hero KDA
 CPU | I5-10400
 GPU | RX 5500 XT
