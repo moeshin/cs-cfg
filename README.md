@@ -1,4 +1,4 @@
-# CSGO Config
+# CS2 Config
 
 Name | Value
 ----|----
