@@ -3,7 +3,7 @@
 Name | Value
 ----|----
 DPI | 400
-EDIP | 1200
+EDIP | 1600
 Mouse | Logitech G502 Hero KDA
 CPU | I5-10400
 GPU | RX 5500 XT
@@ -29,51 +29,36 @@ pos|secondary|midtier|rifle
 <table>
 <tbody align=center>
 <tr>
-	<td rowspan=2>Num</td>
-	<td>KP_DIVIDE</td>
-	<td>KP_MULTIPLY</td>
-	<td>KP_MINUS</td>
+  <td rowspan=2>Num</td>
+  <td>KP_DIVIDE</td>
+  <td>KP_MULTIPLY</td>
+  <td>KP_MINUS</td>
 </tr>
 <tr>
-	<td>ssg08</td>
-	<td>awp</td>
-	<td>scar20/g3sg1</td>
+  <td>ssg08</td>
+  <td>awp</td>
+  <td>scar20/g3sg1</td>
 </tr>
 <tr>
-	<td>KP_7</td>
-	<td>KP_8</td>
-	<td>KP_9</td>
-	<td rowspan=4>KP_PLUS</td>
+  <td>KP_7</td>
+  <td>KP_8</td>
+  <td>KP_9</td>
+  <td rowspan=4>KP_PLUS</td>
 </tr>
 <tr>
-	<td>mp9/mac10</td>
-	<td>bizon</td>
-	<td>elite</td>
+  <td>mp9/mac10</td>
+  <td>bizon</td>
+  <td>elite</td>
 </tr>
 <tr>
-	<td>KP_4</td>
-	<td>KP_5</td>
-	<td>KP_6</td>
+  <td>KP_4</td>
+  <td>KP_5</td>
+  <td>KP_6</td>
 </tr>
 <tr>
-	<td>m4a1/ak47</td>
-	<td>deagle</td>
-	<td>fiveseven/tec9</td>
-</tr>
-</tbody>
-</table>
-
-<table>
-<tbody align=center>
-<tr>
-	<td>Print Screen</td>
-	<td>Scroll Lock</td>
-	<td>Pause Break</td>
-</tr>
-<tr>
-	<td></td>
-	<td>scrolllock</td>
-	<td>numlock</td>
+  <td>m4a1/ak47</td>
+  <td>deagle</td>
+  <td>fiveseven/tec9</td>
 </tr>
 </tbody>
 </table>
@@ -81,24 +66,39 @@ pos|secondary|midtier|rifle
 <table>
 <tbody align=center>
 <tr>
-	<td>INS</td>
-	<td>HOME</td>
-	<td>PgUp</td>
+  <td>Print Screen</td>
+  <td>Scroll Lock</td>
+  <td>Pause Break</td>
 </tr>
 <tr>
-	<td>flashbang</td>
-	<td>hegrenade</td>
-	<td>taser</td>
+  <td></td>
+  <td>scrolllock</td>
+  <td>numlock</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody align=center>
+<tr>
+  <td>INS</td>
+  <td>HOME</td>
+  <td>PgUp</td>
 </tr>
 <tr>
-	<td>DEL</td>
-	<td>END</td>
-	<td>PgDn</td>
+  <td>flashbang</td>
+  <td>hegrenade</td>
+  <td>taser</td>
 </tr>
 <tr>
-	<td>smokegrenade</td>
-	<td>incgrenade/molotov</td>
-	<td>defuser</td>
+  <td>DEL</td>
+  <td>END</td>
+  <td>PgDn</td>
+</tr>
+<tr>
+  <td>smokegrenade</td>
+  <td>incgrenade/molotov</td>
+  <td>defuser</td>
 </tr>
 </tbody>
 </table>
