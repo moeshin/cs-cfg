@@ -26,7 +26,8 @@ pos|secondary|midtier|rifle
 
 ## Buy Bind Key
 
-<table style="text-align:center;">
+<table>
+<tbody align=center>
 <tr>
 	<td rowspan=2>Num</td>
 	<td>KP_DIVIDE</td>
@@ -59,9 +60,11 @@ pos|secondary|midtier|rifle
 	<td>deagle</td>
 	<td>fiveseven/tec9</td>
 </tr>
+</tbody>
 </table>
 
-<table style="text-align:center;">
+<table>
+<tbody align=center>
 <tr>
 	<td>Print Screen</td>
 	<td>Scroll Lock</td>
@@ -72,9 +75,11 @@ pos|secondary|midtier|rifle
 	<td>scrolllock</td>
 	<td>numlock</td>
 </tr>
+</tbody>
 </table>
 
-<table style="text-align:center;">
+<table>
+<tbody align=center>
 <tr>
 	<td>INS</td>
 	<td>HOME</td>
@@ -95,6 +100,7 @@ pos|secondary|midtier|rifle
 	<td>incgrenade/molotov</td>
 	<td>defuser</td>
 </tr>
+</tbody>
 </table>
 
 https://steamcommunity.com/sharedfiles/filedetails/?id=3029445264
