@@ -57,7 +57,7 @@ function installMyCs2Cfg(
   [switch]$Force,
   [switch]$Copy
 ) {
-  $myCfgDirName = 'moeshin-test'
+  $myCfgDirName = 'moeshin'
 
   $libDir = getSteamLibDir 730
   if (-not $libDir) {
