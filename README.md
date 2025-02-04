@@ -2,16 +2,16 @@
 
 Name | Value
 ----|----
-DPI | 400
+DPI | 800
 EDIP | 1600
 Mouse | Logitech G502 Hero KDA
-CPU | I5-10400
-GPU | RX 5500 XT
-FPS | 144Hz
+CPU | R5 7600X
+GPU | RTX 4060
+FPS | 300Hz
 
 ## Launch Options
 ```text
-+exec moeshin/auto -worldwide --perfectworld --tickrate 128
++exec moeshin/auto -worldwide --perfectworld -console
 ```
 
 ## Buy Menu
